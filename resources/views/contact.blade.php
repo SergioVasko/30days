@@ -6,8 +6,11 @@
     <title>Contact Page</title>
 </head>
 <body>
-Contact Page
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+    </nav>
+    Contact Page
 </body>
 </html>
-
-<?php
