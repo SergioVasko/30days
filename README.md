@@ -1,4 +1,4 @@
-# 30 Days to Learn Laravel — Pixel Positions Job Board
+# Pixel Positions Job Board
 
 A Laravel job board platform.  
 This project demonstrates Laravel features such as routing, Blade components, Eloquent ORM, authentication, queues, and more, culminating in a job board where users can post and apply to jobs.
